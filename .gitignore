@@ -1,0 +1,38 @@
+# Salesforce / SFDX
+.sfdx/
+.sfdx-tools/
+**/package-lock.json
+**/node_modules/
+**/.eslintcache
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build and coverage outputs
+coverage/
+build/
+htmlcov/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Archives
+*.zip
+*.tar.gz
