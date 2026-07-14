@@ -46,6 +46,8 @@ This repository currently establishes the foundation for the project by defining
 
 - [Functional Scope](Functional_Scope.md)
 - Project architecture and implementation details will be added in future phases.
+- REPORT
+- https://docs.google.com/document/d/1_iK3RqvN-lw8ZKek1aXyM4zDSpEo1zKC/edit?usp=drive_link&ouid=111020034887046966333&rtpof=true&sd=true
 
 ## Current Status
 
